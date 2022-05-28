@@ -3,12 +3,12 @@ import json
 import os
 
 
-sudos = 1801589805
-devs = 1801589805
-supports = 1801589805
-whitelists = 1801589805
-tigers = 1801589805
-spammers = 1801589805
+sudos = 5573868756
+devs = 5573868756
+supports = 5573868756
+whitelists = 5573868756
+tigers = 5573868756
+spammers = 5573868756
 
 
 def get_user_list(config, key):
